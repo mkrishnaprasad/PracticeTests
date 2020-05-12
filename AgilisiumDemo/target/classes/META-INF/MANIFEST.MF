@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: AgilisiumDemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mkrishnaprasad
+Implementation-Vendor-Id: com.agilisium.demo
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/AgilisiumDemo
+Created-By: Maven Integration for Eclipse
+

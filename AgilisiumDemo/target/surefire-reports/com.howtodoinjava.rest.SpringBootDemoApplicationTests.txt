@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.howtodoinjava.rest.SpringBootDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 7.628 s <<< FAILURE! - in com.howtodoinjava.rest.SpringBootDemoApplicationTests
+testGetEmployeeList_success(com.howtodoinjava.rest.SpringBootDemoApplicationTests)  Time elapsed: 0.241 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.howtodoinjava.rest.SpringBootDemoApplicationTests.testGetEmployeeList_success(SpringBootDemoApplicationTests.java:55)
+
